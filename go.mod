@@ -1,0 +1,3 @@
+module github.com/MOHITPARMAR007/GOPRACTICE
+
+go 1.25.4
